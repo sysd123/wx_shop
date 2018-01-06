@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/components/dishes/dishes",
+    "pages/components/take/take",
+    "pages/mine/mine",
+    "pages/order/order",
+    "pages/cart/cart"
+  ],
+  "window":{
+    "backgroundColor":"#f4f4f4",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "orange",
+    "navigationBarTitleText": "美食汇微菜单",
+    "navigationBarTextStyle":"white"
+  }
+}
